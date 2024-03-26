@@ -11,6 +11,7 @@ Novice Learning Algorithms
 快速排序（Quick Sort）
 归并排序（Merge Sort）
 堆排序（Heap Sort）
+
 搜索算法：
 
 线性搜索（Linear Search）
@@ -21,11 +22,13 @@ Novice Learning Algorithms
 深度优先搜索（Depth-First Search，DFS）
 最短路径算法（Dijkstra's Algorithm）
 最小生成树算法（Minimum Spanning Tree，如Prim算法和Kruskal算法）
+
 字符串匹配算法：
 
 暴力匹配（Brute Force）
 KMP算法（Knuth-Morris-Pratt Algorithm）
 Boyer-Moore算法
+
 动态规划算法：
 
 斐波那契数列（Fibonacci Sequence）
@@ -37,12 +40,14 @@ Boyer-Moore算法
 
 集合覆盖问题（Set Cover Problem）
 最小生成树问题（Minimum Spanning Tree Problem）
+
 哈希算法：
 
 散列函数（Hash Function）
 哈希表（Hash Table）
 哈希映射（Hash Map）
 哈希集合（Hash Set）
+
 机器学习算法：
 
 线性回归（Linear Regression）
