@@ -32,6 +32,7 @@ Boyer-Moore算法
 背包问题（Knapsack Problem）
 最长公共子序列（Longest Common Subsequence）
 最长递增子序列（Longest Increasing Subsequence）
+
 贪心算法：
 
 集合覆盖问题（Set Cover Problem）
