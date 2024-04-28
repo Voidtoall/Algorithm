@@ -1,5 +1,10 @@
 package com.sort;
 
+/*
+*
+冒泡排序（Bubble Sort）是一种简单的排序算法。它通过比较相邻的元素，并根据大小交换它们的顺序，
+* 以将较大的元素逐渐"冒泡"到数组的末端。这个过程会重复多次，直到整个数组排序完成。
+* */
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = {64, 34, 25, 12, 22, 11, 90};

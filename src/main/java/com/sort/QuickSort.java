@@ -1,5 +1,10 @@
 package com.sort;
 
+/**
+ * 快速排序（QuickSort）是一种基于分治法的高效排序算法。它通常被认为是最快的排序算法之一，
+ * 时间复杂度为 O(n log n)。快速排序的核心思想是选择一个"基准"（pivot），然后将数组划分为两部分，
+ * 使得基准左侧的所有元素都小于或等于基准，基准右侧的所有元素都大于或等于基准。然后递归地对两部分继续应用快速排序。
+ * */
 public class QuickSort {
     public static void quickSort(int[] array, int low, int high) {
         if (low < high) {

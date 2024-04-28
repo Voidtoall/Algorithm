@@ -1,5 +1,13 @@
 package com.sort;
 
+
+/**
+ *
+ 归并排序（Merge Sort）是一种基于分治思想的排序算法。它通过将数组不断分割成更小的子数组，
+ 直到每个子数组只有一个元素，
+ 然后将这些子数组逐步合并，最终形成一个有序数组。
+ 归并排序的时间复杂度是 O(n log n)，是比较高效的排序算法之一。
+ */
 public class MergeSort {
     public static void mergeSort(int[] array, int left, int right) {
         if (left < right) {

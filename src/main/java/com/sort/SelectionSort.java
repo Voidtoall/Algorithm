@@ -1,5 +1,12 @@
 package com.sort;
 
+
+/*
+*
+选择排序（Selection Sort）是一种简单的排序算法。它通过在每一轮中选择最小或最大的元素，
+* 并将其放在正确的位置，从而将整个数组排序。选择排序的时间复杂度为 O(n^2)，
+* 空间复杂度为 O(1)，是一种稳定的排序算法。
+* */
 public class SelectionSort {
     public static void main(String[] args) {
         int[] arr = {64, 25, 12, 22, 11};

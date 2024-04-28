@@ -1,5 +1,10 @@
 package com.sort;
 
+/**
+ * 堆排序（Heap Sort）是一种基于堆（Heap）的排序算法。堆是一种特殊的树形数据结构，
+ * 通常使用数组来实现。堆排序利用堆的性质，将数据排序。主要步骤包括构建堆、
+ * 调整堆、逐一取出堆顶元素来形成排序。
+ * */
 public class HeapSort {
     public void heapSort(int[] array) {
         int n = array.length;

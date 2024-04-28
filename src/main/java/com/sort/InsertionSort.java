@@ -1,5 +1,10 @@
 package com.sort;
 
+/*
+* 插入排序（Insertion Sort）是一种简单且直观的排序算法，适用于小规模数据集。
+* 它的核心思想是将数组分成已排序和未排序两部分，从未排序部分依次取出元素，
+* 并将其插入到已排序部分的正确位置。
+* */
 public class InsertionSort {
     public static void insertionSort(int[] array) {
         int n = array.length;
